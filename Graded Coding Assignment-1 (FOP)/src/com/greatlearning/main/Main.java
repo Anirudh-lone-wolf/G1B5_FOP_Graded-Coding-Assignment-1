@@ -12,7 +12,6 @@ public class Main {
 		System.out.println(admin.getTodaysWork());
 		System.out.println(admin.getWorkDeadline());
 		System.out.println(admin.isTodayAHoliday());
-	
 		System.out.println();
 		
 		//HrDepartment object
