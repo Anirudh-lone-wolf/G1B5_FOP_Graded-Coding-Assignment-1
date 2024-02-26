@@ -16,21 +16,19 @@ parameter
     * getTodaysWork will return “ No Work as of now”
     * getWorkDeadline will return “ Nil “
     * isTodayAHoliday will return “ Today is not a holiday”
-* → Admin department will contain 3 methods of return type String and will not accept any
-parameter
+* → Admin department will contain 3 methods of return type String and will not accept any parameter
  * i) departmentName
- * ii) getTodaysWork
+ *  ii) getTodaysWork
  * iii) getWorkDeadline
-  * departmentName will return “ Admin Department “
-  * getTodaysWork will return “Complete your documents Submission”
-  * getWorkDeadline will return “ Complete by EOD “
-* → Hr department will contain 4 methods of return type String and will not accept any
-parameter
+   * departmentName will return “ Admin Department “
+   * getTodaysWork will return “Complete your documents Submission”
+   * getWorkDeadline will return “ Complete by EOD “
+* → Hr department will contain 4 methods of return type String and will not accept any parameter
  * i) departmentName
  * ii) getTodaysWork
  * iii) getWorkDeadline
  * iv) doActivity
- *  * departmentName will return “ Hr Department “
+    * departmentName will return “ Hr Department “
     * getTodaysWork will return “ Fill today’s timesheet and mark your attendance”
     * getWorkDeadline will return “ Complete by EOD “
     * doActivity “team Lunch”
