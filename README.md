@@ -30,10 +30,10 @@ parameter
  * ii) getTodaysWork
  * iii) getWorkDeadline
  * iv) doActivity
-   * departmentName will return “ Hr Department “
-   * getTodaysWork will return “ Fill today’s timesheet and mark your attendance”
-   * getWorkDeadline will return “ Complete by EOD “
-doActivity “team Lunch”
+ *  * departmentName will return “ Hr Department “
+    * getTodaysWork will return “ Fill today’s timesheet and mark your attendance”
+    * getWorkDeadline will return “ Complete by EOD “
+    * doActivity “team Lunch”
 * → Tech department will contain 4 methods of return type String and will not accept any
 parameter
   * i) departmentName
@@ -64,4 +64,5 @@ Department. (SuperDepartment will act as a super class for all the departments
 * <b>Abstraction</b> - Hiding internal details and showing functionality is known as abstraction. For example phone call, we don't know the internal processing. In Java, we use abstract class and interface to achieve abstraction.
 * <b>Encapsulation</b> - Binding (or wrapping) code and data together into a single unit are known as encapsulation. For example, a capsule, it is wrapped with different medicines.A java class is the example of encapsulation. Java bean is the fully encapsulated class because all the data members are private here.
 
-![image](https://github.com/Anirudh-lone-wolf/G1B5_FOP_Graded-Coding-Assignment-1/assets/66291656/e7cf0f5c-b6e9-4a14-8517-0d23546c65ed)
+![image](https://github.com/Anirudh-lone-wolf/G1B5_FOP_Graded-Coding-Assignment-1/assets/66291656/7fc9a0d8-4356-4cf8-a202-99c02974a128)
+
